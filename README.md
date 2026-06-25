@@ -1,2 +1,2 @@
 # MLThiruneelakantam
-Mchine learning 
+Machine learning 
